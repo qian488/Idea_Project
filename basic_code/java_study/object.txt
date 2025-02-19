@@ -1,0 +1,10 @@
+=======Student=======
+name=张三
+age=18
+gender=男
+=======Teacher=======
+name=落叶
+age=24
+gender=女
+address=广州
+phone=188-5674-8499
